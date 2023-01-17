@@ -1,0 +1,13 @@
+.container-msg {
+  border: 2px solid #2c8bd1;
+  background-color: #88b9dd;
+}
+.msg-p {
+  font-weight: bolder;
+  color: #0b3555;
+}
+.validation-p {
+  color: red;
+  font-weight: bolder;
+  margin: 0.1rem;
+}
